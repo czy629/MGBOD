@@ -1,5 +1,5 @@
 # Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls
-Can Gao, Xiaofeng Tan, Jie Zhou, Weiping Ding, and Witold Pedrycz
+Can Gao, [Xiaofeng Tan](https://xiaofeng-tan.github.io/), Jie Zhou, Weiping Ding, and Witold Pedrycz
 
 This repository is the official implementation of the TKDE submission "**Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls**".
 
