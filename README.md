@@ -1,6 +1,8 @@
 # Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls
 Can Gao, [Xiaofeng Tan](https://xiaofeng-tan.github.io/), Jie Zhou, Weiping Ding, and Witold Pedrycz
 
+[iCAN@SZU](https://github.com/iCAN-SZU)
+
 This repository is the official implementation of the TKDE 2025 "**Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls**".
 
 <!-- Visit our [**webpage**](https://www.pinlab.org/coskad) for more details. -->
