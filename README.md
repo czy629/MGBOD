@@ -112,10 +112,5 @@ See files ["The detailed description of datasets.pdf"](https://github.com/Xiaofe
 If you find this repository/work helpful in your research, please consider citing the paper and starring the repo ⭐.
 
 ```
-@article{tan2024frequency,
-  title={Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection},
-  author={Tan, Xiaofeng and Wang, Hongsong and Geng, Xin},
-  journal={arXiv preprint arXiv:2412.03044},
-  year={2024}
-}
+
 ```
