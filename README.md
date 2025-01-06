@@ -1,7 +1,9 @@
 # Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls
 Can Gao, [Xiaofeng Tan](https://xiaofeng-tan.github.io/), Jie Zhou, Weiping Ding, and Witold Pedrycz
 
-[iCAN@SZU](https://github.com/iCAN-SZU)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10821488)
+
+Our lab:[iCAN@SZU](https://github.com/iCAN-SZU)
 
 This repository is the official implementation of the TKDE 2025 "**Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls**". If you have questions, feel free to reach out through 📧 email (xiaofengtan@seu.edu.cn)!
 
@@ -114,5 +116,14 @@ See files ["The detailed description of datasets.pdf"](https://github.com/Xiaofe
 If you find this repository/work helpful in your research, please consider citing the paper and starring the repo ⭐.
 
 ```
-
+@ARTICLE{10821488,
+  author={Gao, Can and Tan, Xiaofeng and Zhou, Jie and Ding, Weiping and Pedrycz, Witold},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Outlier detection;fuzzy rough sets;fuzzy granule density;multi-scale granular balls;three-way decision},
+  doi={10.1109/TKDE.2024.3525003}}
 ```
