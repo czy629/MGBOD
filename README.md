@@ -110,6 +110,12 @@ This project contains the following important modules:
 ## Appendix
 See files ["The detailed description of datasets.pdf"](https://github.com/Xiaofeng-Tan/MGBOD/blob/main/The%20detailed%20description%20of%20datasets.pdf) and ["Relationship Analysis.pdf"](https://github.com/Xiaofeng-Tan/MGBOD/blob/main/Relationship%20Analysis.pdf).
 
+## Acknowledgement
+
+This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
+
+- https://github.com/Minqi824/ADBench
+
 ## Citation
 If you find this repository/work helpful in your research, please consider citing the paper and starring the repo ⭐.
 
