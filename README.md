@@ -58,9 +58,10 @@ Outlier detection refers to the identification of anomalous samples that deviate
 
 ## Setup
 ### Environment
-```sh
-conda env create -f environment.yml
-```
+
+~~conda env create -f environment.yml~~
+
+Apologies for not exporting the environment configuration before the system update 😩. Fortunately, our approach isn’t overly sensitive to specific environments. If you encounter any issues with the code, please don’t hesitate to get in touch—I’d be delighted to assist! 😊
 
 ### Datasets
 The datasets are selected from [BElloney](https://github.com/BElloney/Outlier-detection) and [ADBench](https://github.com/Minqi824/ADBench), and provided in 
